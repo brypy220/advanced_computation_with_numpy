@@ -14,4 +14,12 @@ This project utilizes:
 
 
 
+
+
+- When I first made this file `misc` was still being used instead of `datasets` and there was no dependency on `pooch`,another reason I love the industry because there is always something to learn.
+
+
+
+
+
 Throughout the code there are various comments for my own personal use
